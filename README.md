@@ -1,4 +1,4 @@
-### Hi there, I'm Yaroslav - aka [anony_moose][website] 👋
+### Hi there, I'm Yaroslav - aka [anony_moose][linkedin] 👋:leo:
 
 ## I'm a Teenager, Developer, and Disciple!
  - :eyes: I'm currently working on a [React Project][reactproject]
@@ -14,11 +14,12 @@
 
 <br />
 
-### Languages:
+### Stack:
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+
 
 <br />
 <br />
@@ -33,6 +34,9 @@
 [<img align="left" alt="eslint" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][eslint]
 [<img align="left" alt="prettier" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/prettier.svg" />][prettier]
 [<img align="left" alt="babel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />][babel]
+[<img align="left" alt="markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
+[<img align="left" alt="netlify" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/netlify.svg" />][netlify]
+
 
 
 <br />
@@ -44,6 +48,7 @@
 [<img align="left" alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
 [<img align="left" alt="typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="googleanalytics" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/googleanalytics.svg" />][googleanalytics]
 
 
 <br />
@@ -80,4 +85,8 @@
 [eslint]: https://eslint.org
 [prettier]: https://prettier.io
 [babel]: https://babeljs.io
-[redux]: https://redux.js.org/
+[redux]: https://redux.js.org
+[markdown]: https://www.markdownguide.org
+[lodash]: https://lodash.com
+[googleanalytics]: https://analytics.google.com
+[netlify]: https://www.netlify.com
