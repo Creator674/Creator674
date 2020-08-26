@@ -5,7 +5,6 @@
  - :zap: I'm currently learning [React][reactdocumentation] and [Redux][reduxdocumentation]
  - :sleepy: I'm looking for a job offer
  - :crystal_ball: 2020 Goals: Learn as much as possible and contribute more to Open Source projects
- - :octocat: Fun fact: I'm particulary fond of octocats
 
 ### Connect with me:
 
