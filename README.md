@@ -1,10 +1,10 @@
 ### Hi there, I'm Yaroslav - aka [anony_moose][linkedin] 👋:leo:
 
 ## I'm a Teenager, Developer, and Disciple!
- - :eyes: I'm currently working on a [React Project][reactproject]
+ - :eyes: I'm currently working on a React project
  - :zap: I'm currently learning [React][reactdocumentation] and [Redux][reduxdocumentation]
  - :sleepy: I'm looking for a job offer
- - :crystal_ball: 2020 Goals: Learn as much as possible and contribute more to Open Source projects
+ - :crystal_ball: 2020 Goals: Learn as much as possible
 
 ### Connect with me:
 
@@ -35,7 +35,7 @@
 [<img align="left" alt="babel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />][babel]
 [<img align="left" alt="markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
 [<img align="left" alt="netlify" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/netlify.svg" />][netlify]
-
+[<img align="left" alt="shellScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/powershell.svg" />][shellScript]
 
 
 <br />
@@ -49,6 +49,12 @@
 [<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="googleanalytics" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/googleanalytics.svg" />][googleanalytics]
 
+<br />
+<br />
+
+###  In FAMCS BSU. . . 
+
+[<img align="left" alt="c++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />][cplusplus]
 
 <br />
 <br />
@@ -89,3 +95,5 @@
 [lodash]: https://lodash.com
 [googleanalytics]: https://analytics.google.com
 [netlify]: https://www.netlify.com
+[shellScript]: https://www.shellscript.sh
+[cplusplus]: https://isocpp.org
