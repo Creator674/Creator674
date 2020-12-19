@@ -36,6 +36,7 @@
 [<img align="left" alt="markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
 [<img align="left" alt="netlify" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/netlify.svg" />][netlify]
 [<img align="left" alt="shellScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/powershell.svg" />][shellScript]
+[<img align="left" alt="jest" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jest.svg" />][jest]
 
 
 <br />
@@ -62,7 +63,6 @@
 ###  New things I'm about to learn:
 
 [<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
-[<img align="left" alt="jest" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jest.svg" />][jest]
 
 
 <br />
