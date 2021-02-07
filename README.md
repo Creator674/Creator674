@@ -1,15 +1,15 @@
 ### Hi there, I'm Yaroslav - aka [anony_moose][linkedin] 👋:leo:
 
 ## I'm a Teenager, Developer, and Disciple!
- - :eyes: I'm currently working on a webpack configrations.
- - :zap: I'm currently learning [React][reactdocumentation] and [Redux][reduxdocumentation]
+ - :eyes: I'm currently working on a Vue project (secret).
+ - :zap: I'm currently learning [Vue][vue] and [Node][nodejs]
  - :sleepy: I'm looking for a job offer
- - :crystal_ball: 2020 Goals: Learn as much as possible
+ - :crystal_ball: 2021 [Feb] Goals: Find a job as a Front-end developer
 
 ### Connect with me:
 
 [<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,9 +43,7 @@
 <br />
 
 ###  In progress . . . 
-
-[<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactdocumentation]
-[<img align="left" alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
+[<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 [<img align="left" alt="typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="googleanalytics" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/googleanalytics.svg" />][googleanalytics]
@@ -61,8 +59,9 @@
 <br />
 
 ###  New things I'm about to learn:
+[<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactdocumentation]
+[<img align="left" alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
 
-[<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 
 
 <br />
@@ -97,3 +96,4 @@
 [netlify]: https://www.netlify.com
 [shellScript]: https://www.shellscript.sh
 [cplusplus]: https://isocpp.org
+[vue]: https://v3.vuejs.org
