@@ -54,6 +54,7 @@
 ###  In FAMCS BSU. . . 
 
 [<img align="left" alt="c++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />][cplusplus]
+[<img align="left" alt="cSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />][csharp]
 
 <br />
 <br />
@@ -96,4 +97,5 @@
 [netlify]: https://www.netlify.com
 [shellScript]: https://www.shellscript.sh
 [cplusplus]: https://isocpp.org
+[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [vue]: https://v3.vuejs.org
