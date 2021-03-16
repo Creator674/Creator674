@@ -55,6 +55,7 @@
 
 [<img align="left" alt="c++" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />][cplusplus]
 [<img align="left" alt="cSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />][csharp]
+[<img align="left" alt="cSharp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />][python]
 
 <br />
 <br />
@@ -99,3 +100,4 @@
 [cplusplus]: https://isocpp.org
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [vue]: https://v3.vuejs.org
+[python]: https://www.python.org/
