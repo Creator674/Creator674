@@ -3,8 +3,6 @@
 ## //Dvlpr//
  - :eyes: I'm currently working on a Vue project (secret).
  - :zap: I'm currently learning [Vue][vue] and [Node][nodejs]
- - :sleepy: I'm looking for a job offer
- - :crystal_ball: 2021 [Feb] Goals: Find a job as a Front-end developer
 
 ### Connect with me:
 
