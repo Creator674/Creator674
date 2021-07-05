@@ -1,6 +1,6 @@
 ### Hi there, I'm Yaroslav - aka [anony_moose][linkedin] 👋:leo:
 
-## //Dvlpr//
+## FE -> FS [Developer]
  - :eyes: I'm currently working on a Vue project (secret).
  - :zap: I'm currently learning [Vue][vue] and [Node][nodejs]
 
