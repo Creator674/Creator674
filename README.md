@@ -1,8 +1,12 @@
-### Hi there, I'm Yaroslav - aka [anony_moose][linkedin] 👋:leo:
+### Yaroslav "RED" Ryzhkov :cherry_blossom:
 
-## FE -> FS [Developer]
+
+* Front-end -> Full-stack developer :technologist:
+* BSU, FAMCS student :otter:
+* :ocean: :ocean: :ocean:
+* Belarus, Minsk :belarus:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator674&show_icons=true&theme=ayu-mirage)
-
 
 ### Stack:
 [<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
@@ -102,8 +106,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator674&repo=webpack-config&theme=ayu-mirage)](https://github.com/Creator674/webpack-config)
 
-### Connect with me:
+### How to reach me [:mailbox:](yaroslav.ryzhkov.02@mail.ru) or [telegram](https://t.me/creator674):
 [<img align="left" alt="linkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+<br />
+<br />
+<br />
 
 [website]: https://creator674.github.io/rsschool-cv
 [linkedin]: https://www.linkedin.com/in/yaroslavwebdev
