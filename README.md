@@ -1,4 +1,4 @@
-### Yaroslav "RED" Ryzhkov (19) :cherry_blossom:
+### Yaroslav "RED" Ryzhkov :cherry_blossom:
 
 
 * Front-end -> Full-stack developer :technologist:
