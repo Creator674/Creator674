@@ -2,7 +2,7 @@
 
 
 * Front-end -> Full-stack developer :technologist:
-* BSU, FAMCS student :otter: (PhD => null)
+* BSU, FAMCS student :otter:
 * :ocean: :ocean: :ocean:
 * Belarus, Minsk :belarus:
 
