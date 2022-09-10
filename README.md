@@ -1,21 +1,25 @@
-### Yaroslav "RED" Ryzhkov :cherry_blossom:
+### Yaroslav Ryzhkov :cherry_blossom:
 
 
 * Front-end -> Full-stack developer :technologist:
 * BSU, FAMCS student :otter:
 * :ocean: :ocean: :ocean:
-* Belarus, Minsk :belarus:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator674&show_icons=true&theme=ayu-mirage)
-
-### Stack:
+### Core Stack:
 [<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
+[<img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />][graphql]
+[<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactdocumentation]
 [<img align="left" alt="vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />][vue]
 [<img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
 [<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html5]
 [<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css3]
 [<img align="left" alt="Less" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />][less]
-[<img align="left" alt="tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />][tailwind]
+[<img alt="next" width="50px" src="https://user-images.githubusercontent.com/43150028/189417811-0145abdd-597a-451f-903a-b75f37060ea9.svg" />][tailwind]
+
+<!---
+[<img alt="" width="50px" src="" />][]
+-->
 
 <br />
 <br />
