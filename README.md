@@ -1,45 +1,57 @@
 ### Yaroslav Ryzhkov :cherry_blossom:
 
 
-* Front-end -> Full-stack developer :technologist:
-* BSU, FAMCS student :otter:
+* Software engineer :technologist:
+* BSU, FAMCS :otter:
 * :ocean: :ocean: :ocean:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creator674&show_icons=true&theme=ayu-mirage)
 ### Core Stack:
-[<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
-[<img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />][graphql]
-[<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactdocumentation]
-[<img align="left" alt="vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />][vue]
-[<img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
-[<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html5]
-[<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css3]
-[<img align="left" alt="Less" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />][less]
-[<img alt="next" width="50px" src="https://user-images.githubusercontent.com/43150028/189417811-0145abdd-597a-451f-903a-b75f37060ea9.svg" />][tailwind]
-
-<!---
-[<img alt="" width="50px" src="" />][]
--->
-
-<br />
-<br />
-
-###  Busy with:
+[<img align="left" alt="nextjs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />][nextjs]
 [<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />][reactdocumentation]
 [<img align="left" alt="typescript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />][typescript]
+[<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
+[<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />][redux]
+
+<br />
+<br />
+
+### Experienced in:
 [<img align="left" alt="GraphQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />][graphql]
+[<img align="left" alt="vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />][vue]
+[<img align="left" alt="svelteJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />][sveltejs]
+[<img align="left" alt="tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
+[<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
+
+
+<br />
+<br />
+
+### 'B' Stack:
+[<img align="left" alt="Nodejs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][nodejs]
+[<img align="left" alt="nestJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />][nestjs]
+[<img align="left" alt="vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />][nuxtjs]
+[<img align="left" alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
+[<img align="left" alt="postgresql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />][postgresql]
+
+
+<!-- ###  Base:
+[<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html5]
+[<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css3]
 [<img align="left" alt="materialUI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />][materialui]
-[<img align="left" alt="nextjs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />][nextjs]
+[<img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
+[<img align="left" alt="Less" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />][less] -->
 
 <br />
 <br />
 
 ### VC & Managment software:
 [<img align="left" alt="GitLab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][gitlab]
-[<img align="left" alt="bitbucket" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][bitbucket]
-[<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
-[<img align="left" alt="jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][jira]
 [<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
+[<img align="left" alt="bitbucket" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />][bitbucket]
+[<img align="left" alt="jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />][jira]
+[<img align="left" alt="slack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />][slack]
+
 
 <br />
 <br />
@@ -68,7 +80,9 @@
 [<img align="left" alt="Webstorm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />][webstorm]
 [<img align="left" alt="figma" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />][figma]
 [<img align="left" alt="terminal" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][terminal]
-[<img align="left" alt="markdown" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />][markdown]
+
+[<img align="left" alt="vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />][vim]
+
 
 <br />
 <br />
@@ -84,31 +98,18 @@
 <br />
 
 ###  In proccess:
-[<img align="left" alt="Nodejs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][nodejs]
-[<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />][redux]
-[<img align="left" alt="amazonws" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />][amazonws]
+<!-- [<img align="left" alt="amazonws" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />][amazonws]
 [<img align="left" alt="springjs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />][springjs]
-[<img align="left" alt="slack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />][slack]
-
-<br />
-<br />
-
-###  Want to try:
-[<img align="left" alt="svelteJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />][sveltejs]
-[<img align="left" alt="nestJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />][nestjs]
-[<img align="left" alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
-[<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />][mongoDB]
+[<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />][mongoDB] -->
+[<img align="left" alt="electron" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />][electron]
 [<img align="left" alt="treeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />][treejs]
+[<img align="left" alt="ionic" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />][ionic]
+
+
 
 <br />
 <br />
 
-### Some pet-projects to have a look at:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator674&repo=cubic-watchers&theme=ayu-mirage)](https://github.com/Creator674/cubic-watchers)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator674&repo=shelter&theme=ayu-mirage)](https://github.com/Creator674/shelter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creator674&repo=webpack-config&theme=ayu-mirage)](https://github.com/Creator674/webpack-config)
 
 ### How to reach me [:mailbox:](yaroslav.ryzhkov.02@mail.ru) or [telegram](https://t.me/creator674):
 [<img align="left" alt="linkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
@@ -118,9 +119,7 @@
 <br />
 
 [website]: https://creator674.github.io/rsschool-cv
-[linkedin]: https://www.linkedin.com/in/yaroslavwebdev
-[instagram]: https://www.instagram.com/anony_moose666
-[reactproject]: https://www.linkedin.com/in/yaroslavwebdev
+[linkedin]: https://www.linkedin.com/in/yaroslav-ryzhkov-engineer/
 [reactdocumentation]: https://reactjs.org/
 [reduxdocumentation]: https://redux.js.org
 [visualstudio]: https://code.visualstudio.com
@@ -172,3 +171,8 @@
 [webstorm]: https://www.jetbrains.com/webstorm
 [amazonws]: https://aws.amazon.com
 [springjs]: https://spring.js.org
+[nuxtjs]: https://nuxt.com/
+[electron]: https://www.electronjs.org/
+[vim]: https://neovim.io/
+[ionic]: https://ionicframework.com/
+[postgresql]: https://www.postgresql.org/
